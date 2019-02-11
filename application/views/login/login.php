@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>PT. Bank Rakyat Indonesia | <?php echo $title ?></title>
+    <title>PT. Bank | <?php echo $title ?></title>
 
     <link href="<?php echo base_url('assets/css/bootstrap.min.css')?>" rel="stylesheet">
     <link href="<?php echo base_url('assets/font-awesome/css/font-awesome.css')?>" rel="stylesheet">
@@ -42,7 +42,7 @@
                 <button type="submit" class="btn btn-primary block full-width m-b">Log In</button>
             </form>
             <hr/>
-            <strong>Copyright</strong> PT. Bank Rakyat Indonesia <small>© 2018</small>
+            <strong>Copyright</strong> PT. Bank <small>© 2018</small>
         </div>
     </div>
 

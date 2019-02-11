@@ -3,7 +3,7 @@
                     <strong>{elapsed_time} detik</strong>
                 </div>
                 <div>
-                    <strong>Copyright</strong> PT. Bank Rakyat Indonesia © 2018
+                    <strong>Copyright</strong> PT. Bank © 2018
                 </div>
             </div>
 
